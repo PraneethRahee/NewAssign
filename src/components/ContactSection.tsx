@@ -98,7 +98,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h4 className="font-bold mb-1">Location</h4>
-                  <p>123 Main Street, Downtown<br/>New York, NY 10001</p>
+                  <p>518 Acme St unit 101, Denton, TX 76205,<br/>United States</p>
                 </div>
               </div>
               
@@ -108,7 +108,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h4 className="font-bold mb-1">Phone</h4>
-                  <p>(555) 123-4567</p>
+                  <p>+19408081569</p>
                 </div>
               </div>
               
@@ -127,15 +127,15 @@ export default function ContactSection() {
             <div className="mb-8">
               <div className="flex justify-between mb-2">
                 <span>Monday - Friday</span>
-                <span>9:00 AM - 8:00 PM</span>
+                <span>9:00 AM - 7:00 PM</span>
               </div>
               <div className="flex justify-between mb-2">
                 <span>Saturday</span>
-                <span>9:00 AM - 6:00 PM</span>
+                <span>9:00 AM - 5:00 PM</span>
               </div>
               <div className="flex justify-between mb-2">
                 <span>Sunday</span>
-                <span>10:00 AM - 4:00 PM</span>
+                <span>Closed</span>
               </div>
             </div>
             
